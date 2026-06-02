@@ -90,7 +90,7 @@
     </div>
 
     <!-- Iframe que carrega o Apps Script (SEM a barra de cabeçalho do Google) -->
-    <iframe id="app-frame" src="SEU_LINK_DO_APPS_SCRIPT_AQUI" onload="hideLoader()"></iframe>
+    <iframe id="app-frame" src="https://script.google.com/macros/s/AKfycbyI8yGk3gTfJqFe9p2HXJJnOKCU2n1GJBdKYpWQxdknIFmiTgHBrwfH9s1u2FJb4Czb/exec" onload="hideLoader()"></iframe>
 
     <script>
         function hideLoader() {
